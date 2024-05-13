@@ -1,5 +1,8 @@
 # kurly_project
 
+[POSCO 청년 AI BigData 아카데미](https://youth.posco.com/posco/edu/index.php?mod=academy&pag=aca01#khwhay)
+
+
 [전체 코드]  
 https://github.com/Seojiii/kurly_project/tree/main/kurly_project_codes
 
